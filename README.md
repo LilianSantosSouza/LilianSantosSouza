@@ -6,7 +6,7 @@
 
   - 🌱I'm a Business Intelligence Analyst with 4 years of experience in the data field, specializing in transforming complex data sets into actionable business insights and  I’m currently studying Data Engeneering.
 
- 🔭### Career Goals
+ ### 🔭 Career Goals
 
 - **Objective:** Secure my first role as a Data Engineer.
 - **Ambition:** To become a leading reference/expert in Data Engineering.
